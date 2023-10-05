@@ -1,5 +1,3 @@
-# TWO INT. NETPLAN TEMPLATE BY JULIO
-
 network:
   ethernets:  
       enp0s3:
